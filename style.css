@@ -16,7 +16,9 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    margin: 50px
+    margin: 50px;
+    font-size: 'Outfit','sans-serif';
+    text-align: center;
 }
 
 .card{
@@ -42,10 +44,6 @@ img{
 
 }
 
-.img,text,p{
-    width: max-content;
-    text-align: center;
-}
 
 
 
@@ -71,7 +69,7 @@ img{
     
 .card{
 
-    width: 375px;
+    width: 250px;
 }
     
 }
